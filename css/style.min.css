@@ -1,11 +1,3 @@
-/*!==============================
- * Theme Name: Gifted
- * Theme URL: Theme URL: https://probootstrap.com/gifted-free-personal-html5-bootstrap-template
- * Author: ProBootstrap.com
- * Author URL: https://probootstrap.com
- * License: Released for free under the Creative Commons Attribution 3.0 license (probootstrap.com/license)
- */
-
 body,
 h1,
 h2,
@@ -98,7 +90,7 @@ a.hover-reverse:hover {
     text-decoration: none
 }
 .probootstrap-image {
-    background-image: url(../img/img_1.png);
+    background-image: url(../img/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom center;
