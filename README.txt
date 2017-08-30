@@ -1,4 +1,5 @@
-THEME: Format - Free Bootstrap Theme
+THEME: Gifted - Free Bootstrap Theme
+VERSION: 1.1  (Last Update: Aug. 21,2017)
 AUTHOR: ProBootstrap.com
 AUTHOR URI: https://probootstrap.com/
 Twitter: https://twitter.com/probootstrap
@@ -34,20 +35,5 @@ http://daneden.me/animate
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Owl Carousel
-https://owlcarousel2.github.io/OwlCarousel2/
-
-FlexSlider
-http://flexslider.woothemes.com
-
 Demo Images
 https://unsplash.com
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-CountTo
-https://github.com/mhuggins/jquery-countTo
