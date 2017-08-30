@@ -28,6 +28,7 @@ gulp.task('scripts', function() {
     'js/vendor/jquery.flexslider-min.js',
     'js/vendor/jquery.countTo.js',
     'js/vendor/jquery.appear.min.js',
+    'js/vendor/circle-progress.min.js',
     'js/vendor/jquery.magnific-popup.min.js',
     'js/vendor/owl.carousel.min.js',
     'js/vendor/bootstrap.min.js',
@@ -115,7 +116,7 @@ gulp.task('bs-reload', function () {
 gulp.task('browser-sync', function() {
     browserSync.init(['css/*.css', 'js/*.js'], {
         
-        proxy: 'localhost/probootstrap/gifted'
+        proxy: 'localhost/probootstrap/format'
         /* For a static server you would use this: */
         /*
         server: {
